@@ -6,13 +6,14 @@
 
 
 ### 🛠️ Tecnologias
-- HTML | CSS | JavaScript
-- React.js | React Native
-- PHP (básico)
-- Git & GitHub
-- Consumo de APIs REST
+|----|
+|HTML,  CSS,  JavaScript|
+|React.js, React Native|
+|PHP (básico)|
+|Git & GitHub|
+|Consumo de APIs REST|
 
-- ### ⭐ Projetos em Destaque
+### ⭐ Projetos em Destaque
 - 🎓 **Professor Auxílio** — Plataforma educacional com IA e simulados  
 - 🚀 **Incentiva AMS** — Site informativo sobre o curso AMS
 
