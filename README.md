@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Giovana Cipulo👋
 
-🎓 Estudante do Ensino Médio Técnico em **Informática para Internet (AMS / ETEC)**  
-💻 Explorando diferentes áreas do desenvolvimento web
+🎓 Estudante do Ensino Médio Técnico em Informática para Internet (AMS / ETEC)  
+💻 Explorando diferentes áreas do desenvolvimento web  
 🚀 Aprendendo na prática através de projetos acadêmicos e pessoais
 
 ### 🛠️ Tecnologias
