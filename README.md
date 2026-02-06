@@ -4,10 +4,10 @@
 💻 Explorando diferentes áreas do desenvolvimento web
 🚀 Aprendendo na prática através de projetos acadêmicos e pessoais
 
-
 ### 🛠️ Tecnologias
-| Tecnologias |
-|-------------|
+
+| |
+|---|
 | HTML · CSS · JavaScript |
 | React.js · React Native |
 | PHP (básico) |
