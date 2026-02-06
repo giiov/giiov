@@ -6,12 +6,14 @@
 
 
 ### 🛠️ Tecnologias
-|----|
-|HTML,  CSS,  JavaScript|
-|React.js, React Native|
-|PHP (básico)|
-|Git & GitHub|
-|Consumo de APIs REST|
+| Tecnologias |
+|-------------|
+| HTML · CSS · JavaScript |
+| React.js · React Native |
+| PHP (básico) |
+| Git & GitHub |
+| APIs REST |
+
 
 ### ⭐ Projetos em Destaque
 - 🎓 **Professor Auxílio** — Plataforma educacional com IA e simulados  
